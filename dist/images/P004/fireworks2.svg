@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="102" viewBox="0 0 110 102">
+  <g id="fireworks_B" transform="translate(0 0)">
+    <path id="패스_4673" data-name="패스 4673" d="M3.211,2.287l-.546.147a.378.378,0,0,0-.257.239l-.188.533a.377.377,0,0,1-.671.081L1.24,2.813a.377.377,0,0,0-.306-.171L.368,2.628a.377.377,0,0,1-.284-.614l.355-.44A.378.378,0,0,0,.507,1.23L.346.688a.377.377,0,0,1,.5-.46l.528.2A.377.377,0,0,0,1.718.388L2.184.067A.377.377,0,0,1,2.774.4L2.746.961a.377.377,0,0,0,.147.318l.449.343A.377.377,0,0,1,3.211,2.287Z" transform="translate(12.77 78.677) rotate(60)" fill="aqua"/>
+    <path id="패스_4674" data-name="패스 4674" d="M4.36,3.105l-.741.2a.511.511,0,0,0-.349.324l-.255.724a.512.512,0,0,1-.912.109L1.684,3.82a.512.512,0,0,0-.416-.232L.5,3.568a.512.512,0,0,1-.386-.833l.482-.6A.512.512,0,0,0,.689,1.67L.47.934A.512.512,0,0,1,1.143.31L1.86.584A.513.513,0,0,0,2.333.527L2.965.092a.512.512,0,0,1,.8.447l-.039.767a.512.512,0,0,0,.2.433l.61.466A.512.512,0,0,1,4.36,3.105Z" transform="translate(4.066 44.587) rotate(60)" fill="#ffcf4a"/>
+    <path id="F" d="M8568.2-71.25c.759,1.833.579,3.649-.4,4.056s-2.4-.749-3.154-2.583-7.66-20.743-6.678-21.15S8567.441-73.083,8568.2-71.25Z" transform="translate(-8499.787 151.946)" fill="#6ff" opacity="0.51"/>
+    <path id="F-2" data-name="F" d="M8523.476-177c-.761-1.833-2.174-2.989-3.152-2.583s-1.163,2.223-.406,4.056,9.253,20.084,10.233,19.677S8524.234-175.165,8523.476-177Z" transform="translate(-8478.444 201.655)" fill="#6ff" opacity="0.51"/>
+    <path id="F-3" data-name="F" d="M8588.117-139.452c1.834-.76,3.649-.579,4.058.4s-.752,2.394-2.583,3.153-20.744,7.66-21.149,6.677S8586.285-138.693,8588.117-139.452Z" transform="translate(-8505.693 179.474)" fill="#6ff" opacity="0.51"/>
+    <path id="F-4" data-name="F" d="M8482.37-94.724c-1.833.759-2.989,2.171-2.584,3.153s2.222,1.163,4.057.4,20.084-9.252,19.678-10.234S8484.2-95.483,8482.37-94.724Z" transform="translate(-8456.379 157.982)" fill="#6ff" opacity="0.51"/>
+    <path id="F-5" data-name="F" d="M8564.645-177c.759-1.833,2.171-2.989,3.154-2.583s1.162,2.223.4,4.056-9.254,20.084-10.235,19.677S8563.886-175.165,8564.645-177Z" transform="translate(-8499.787 201.655)" fill="#6ff" opacity="0.51"/>
+    <path id="F-6" data-name="F" d="M8519.917-71.25c-.757,1.833-.578,3.649.406,4.056s2.392-.749,3.152-2.583,7.657-20.743,6.675-21.15S8520.676-73.083,8519.917-71.25Z" transform="translate(-8478.444 151.946)" fill="#6ff" opacity="0.51"/>
+    <path id="F-7" data-name="F" d="M8588.117-91.167c1.834.759,3.649.579,4.058-.4s-.752-2.394-2.583-3.153-20.744-7.66-21.149-6.678S8586.285-91.927,8588.117-91.167Z" transform="translate(-8505.693 157.982)" fill="#6ff" opacity="0.51"/>
+    <path id="F-8" data-name="F" d="M8482.37-135.9c-1.833-.759-2.989-2.171-2.584-3.153s2.222-1.163,4.057-.4,20.084,9.252,19.678,10.233S8484.2-135.136,8482.37-135.9Z" transform="translate(-8456.379 179.474)" fill="#6ff" opacity="0.51"/>
+    <ellipse id="F-9" data-name="F" cx="1.925" cy="3.593" rx="1.925" ry="3.593" transform="translate(63.472 78.799) rotate(-22.5)" fill="#6ff"/>
+    <ellipse id="F-10" data-name="F" cx="1.925" cy="3.593" rx="1.925" ry="3.593" transform="translate(40.11 22.873) rotate(-22.5)" fill="#6ff"/>
+    <ellipse id="F-11" data-name="F" cx="3.593" cy="1.925" rx="3.593" ry="1.925" transform="translate(79.087 41.431) rotate(-22.5)" fill="#6ff"/>
+    <ellipse id="F-12" data-name="F" cx="3.593" cy="1.925" rx="3.593" ry="1.925" transform="translate(22.69 64.602) rotate(-22.5)" fill="#6ff"/>
+    <ellipse id="F-13" data-name="F" cx="3.593" cy="1.925" rx="3.593" ry="1.925" transform="translate(63.472 28.039) rotate(-67.5)" fill="#6ff"/>
+    <ellipse id="F-14" data-name="F" cx="3.593" cy="1.925" rx="3.593" ry="1.925" transform="translate(40.11 83.965) rotate(-67.5)" fill="#6ff"/>
+    <ellipse id="F-15" data-name="F" cx="1.925" cy="3.593" rx="1.925" ry="3.593" transform="translate(79.087 65.408) rotate(-67.5)" fill="#6ff"/>
+    <ellipse id="F-16" data-name="F" cx="1.925" cy="3.593" rx="1.925" ry="3.593" transform="translate(22.689 42.237) rotate(-67.5)" fill="#6ff"/>
+    <path id="F-17" data-name="F" d="M8591.105-71.348c1.446,1.445,1.988,3.245,1.216,4.019s-2.573.23-4.019-1.215-15.468-16.721-14.692-17.5S8589.661-72.793,8591.105-71.348Z" transform="translate(-8508.535 149.274)" fill="#6ff" opacity="0.51"/>
+    <path id="F-18" data-name="F" d="M8489.527-172.366c-1.447-1.445-3.248-1.989-4.021-1.215s-.229,2.573,1.216,4.019,16.721,15.466,17.494,14.692S8490.969-170.921,8489.527-172.366Z" transform="translate(-8459.401 198.466)" fill="#6ff" opacity="0.51"/>
+    <path id="F-19" data-name="F" d="M8546.516-196.372c0-2.044.888-3.7,1.98-3.7s1.985,1.657,1.985,3.7-.89,22.76-1.985,22.76S8546.516-194.328,8546.516-196.372Z" transform="translate(-8493.465 213.284)" fill="#6ff" opacity="0.51"/>
+    <path id="F-20" data-name="F" d="M8546.116-53.677c0,2.044.887,3.7,1.982,3.7s1.982-1.657,1.982-3.7-.888-22.76-1.982-22.76S8546.116-55.721,8546.116-53.677Z" transform="translate(-8493.243 143.663)" fill="#6ff" opacity="0.51"/>
+    <ellipse id="F-21" data-name="F" cx="1.983" cy="3.701" rx="1.983" ry="3.701" transform="translate(77.133 78.068) rotate(-45)" fill="#6ff"/>
+    <ellipse id="F-22" data-name="F" cx="1.983" cy="3.701" rx="1.983" ry="3.701" transform="translate(24.719 26.34) rotate(-45)" fill="#6ff"/>
+    <ellipse id="F-23" data-name="F" cx="1.983" cy="3.701" rx="1.983" ry="3.701" transform="translate(53.051 13.211)" fill="#6ff"/>
+    <ellipse id="F-24" data-name="F" cx="1.983" cy="3.701" rx="1.983" ry="3.701" transform="translate(52.874 86.285)" fill="#6ff"/>
+    <path id="F-25" data-name="F" d="M8605.693-108.889c2.043,0,3.7-.888,3.7-1.983s-1.655-1.983-3.7-1.983-22.762.887-22.762,1.983S8603.647-108.889,8605.693-108.889Z" transform="translate(-8513.828 164.379)" fill="#6ff" opacity="0.51"/>
+    <path id="F-26" data-name="F" d="M8463-109.287c-2.042,0-3.7-.888-3.7-1.983s1.657-1.983,3.7-1.983,22.76.888,22.76,1.983S8465.04-109.287,8463-109.287Z" transform="translate(-8444.972 164.602)" fill="#6ff" opacity="0.51"/>
+    <ellipse id="F-27" data-name="F" cx="3.701" cy="1.983" rx="3.701" ry="1.983" transform="translate(88.162 51.525)" fill="#6ff"/>
+    <ellipse id="F-28" data-name="F" cx="3.701" cy="1.983" rx="3.701" ry="1.983" transform="translate(14.325 51.35)" fill="#6ff"/>
+    <path id="F-29" data-name="F" d="M8591.105-169.563c1.446-1.445,1.988-3.244,1.216-4.019s-2.573-.23-4.019,1.215-15.468,16.721-14.692,17.5S8589.661-168.117,8591.105-169.563Z" transform="translate(-8508.535 198.466)" fill="#6ff" opacity="0.51"/>
+    <path id="F-30" data-name="F" d="M8489.527-68.544c-1.447,1.445-3.248,1.989-4.021,1.215s-.229-2.573,1.216-4.019,16.721-15.466,17.494-14.692S8490.969-69.989,8489.527-68.544Z" transform="translate(-8459.401 149.274)" fill="#6ff" opacity="0.51"/>
+    <ellipse id="F-31" data-name="F" cx="3.701" cy="1.983" rx="3.701" ry="1.983" transform="translate(77.133 28.77) rotate(-45)" fill="#6ff"/>
+    <ellipse id="F-32" data-name="F" cx="3.701" cy="1.983" rx="3.701" ry="1.983" transform="translate(24.719 80.498) rotate(-45)" fill="#6ff"/>
+    <path id="F-33" data-name="F" d="M8609.973-72.343c1.678,1.111,2.555,2.741,1.962,3.641s-2.439.728-4.118-.384-18.216-13.105-17.62-14S8608.293-73.455,8609.973-72.343Z" transform="translate(-8517.842 147.678)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-34" data-name="F" d="M8466.482-166.769c-1.679-1.111-3.523-1.283-4.119-.383s.283,2.53,1.963,3.641,19.181,11.646,19.773,10.747S8468.161-165.657,8466.482-166.769Z" transform="translate(-8446.566 195.01)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-35" data-name="F" d="M8527.342-208.082c-.4-1.973.128-3.747,1.186-3.962s2.241,1.21,2.642,3.184,3.613,22.146,2.556,22.361S8527.741-206.109,8527.342-208.082Z" transform="translate(-8482.744 219.924)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-36" data-name="F" d="M8561.994-40.081c.4,1.973,1.584,3.4,2.642,3.183s1.588-1.989,1.187-3.962-5.325-21.8-6.382-21.583S8561.594-42.054,8561.994-40.081Z" transform="translate(-8500.531 135.916)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-37" data-name="F" d="M8619.276-128.3c1.975-.4,3.4-1.588,3.181-2.644s-1.991-1.587-3.964-1.183-21.791,5.349-21.575,6.406S8617.3-127.892,8619.276-128.3Z" transform="translate(-8521.572 175.21)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-38" data-name="F" d="M8451.309-93.477c-1.971.4-3.747-.126-3.963-1.183s1.209-2.24,3.182-2.644,22.144-3.636,22.358-2.579S8453.283-93.88,8451.309-93.477Z" transform="translate(-8438.342 157.228)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-39" data-name="F" d="M8590.69-192.618c1.111-1.679,1.281-3.523.383-4.118s-2.53.283-3.641,1.962-11.646,19.181-10.747,19.776S8589.579-190.939,8590.69-192.618Z" transform="translate(-8510.219 211.54)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-40" data-name="F" d="M8495.446-49.667c-1.111,1.679-2.74,2.558-3.641,1.962s-.728-2.439.384-4.119,13.105-18.215,14-17.619S8496.56-51.346,8495.446-49.667Z" transform="translate(-8462.772 139.799)" fill="#ffe558" opacity="0.51"/>
+    <ellipse id="F-41" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="matrix(0.552, -0.834, 0.834, 0.552, 86.934, 76.543)" fill="#ffe558"/>
+    <ellipse id="F-42" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="matrix(0.552, -0.834, 0.834, 0.552, 14.719, 29.529)" fill="#ffe558"/>
+    <ellipse id="F-43" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="translate(43.874 8.269) rotate(-11.5)" fill="#ffe558"/>
+    <ellipse id="F-44" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="translate(60.733 92.262) rotate(-11.5)" fill="#ffe558"/>
+    <ellipse id="F-45" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(93.35 43.833) rotate(-11.559)" fill="#ffe558"/>
+    <ellipse id="F-46" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(8.612 60.641) rotate(-11.559)" fill="#ffe558"/>
+    <ellipse id="F-47" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(75.189 19.806) rotate(-56.5)" fill="#ffe558"/>
+    <ellipse id="F-48" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(27.419 91.017) rotate(-56.5)" fill="#ffe558"/>
+    <path id="F-49" data-name="F" d="M8619.386-97.987c1.976.384,3.409,1.554,3.205,2.613s-1.976,1.606-3.95,1.222-21.846-5.137-21.641-6.2S8617.408-98.37,8619.386-97.987Z" transform="translate(-8521.615 157.496)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-50" data-name="F" d="M8451.1-131.185c-1.979-.384-3.746.162-3.952,1.222s1.229,2.228,3.206,2.613,22.178,3.42,22.384,2.361S8453.077-130.8,8451.1-131.185Z" transform="translate(-8438.234 174.68)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-51" data-name="F" d="M8491.881-192.391c-1.126-1.669-1.312-3.512-.419-4.115s2.532.261,3.659,1.931,11.813,19.078,10.919,19.681S8493.008-190.722,8491.881-192.391Z" transform="translate(-8462.588 211.415)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-52" data-name="F" d="M8587.541-49.717c1.125,1.669,2.765,2.534,3.658,1.93s.706-2.445-.419-4.115-13.263-18.1-14.158-17.5S8586.416-51.386,8587.541-49.717Z" transform="translate(-8510.186 139.775)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-53" data-name="F" d="M8609.615-164.333c1.668-1.127,2.531-2.766,1.927-3.66s-2.447-.7-4.115.424-18.086,13.282-17.48,14.176S8607.947-163.2,8609.615-164.333Z" transform="translate(-8517.704 195.472)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-54" data-name="F" d="M8467.036-68.53c-1.669,1.128-3.512,1.317-4.115.424s.258-2.532,1.925-3.66,19.067-11.833,19.673-10.939S8468.7-69.658,8467.036-68.53Z" transform="translate(-8446.871 147.46)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-55" data-name="F" d="M8565.7-208.173c.384-1.977-.162-3.746-1.222-3.952s-2.229,1.23-2.612,3.206-3.42,22.177-2.359,22.383S8565.316-206.2,8565.7-208.173Z" transform="translate(-8500.563 219.967)" fill="#ffe558" opacity="0.51"/>
+    <path id="F-56" data-name="F" d="M8531.536-40.077c-.383,1.977-1.553,3.412-2.613,3.206s-1.606-1.975-1.221-3.952,5.139-21.844,6.2-21.638S8531.922-42.053,8531.536-40.077Z" transform="translate(-8482.951 135.925)" fill="#ffe558" opacity="0.51"/>
+    <ellipse id="F-57" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="translate(93.442 62.635) rotate(-79)" fill="#ffe558"/>
+    <ellipse id="F-58" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="translate(8.543 46.648) rotate(-79)" fill="#ffe558"/>
+    <ellipse id="F-59" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="matrix(0.829, -0.559, 0.559, 0.829, 27.268, 16.001)" fill="#ffe558"/>
+    <ellipse id="F-60" data-name="F" cx="1.953" cy="3.646" rx="1.953" ry="3.646" transform="matrix(0.829, -0.559, 0.559, 0.829, 75.304, 87.036)" fill="#ffe558"/>
+    <ellipse id="F-61" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(86.704 29.988) rotate(-34.059)" fill="#ffe558"/>
+    <ellipse id="F-62" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(14.956 77.698) rotate(-34.059)" fill="#ffe558"/>
+    <ellipse id="F-63" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(60.604 14.628) rotate(-79)" fill="#ffe558"/>
+    <ellipse id="F-64" data-name="F" cx="3.646" cy="1.953" rx="3.646" ry="1.953" transform="translate(44.059 98.682) rotate(-79)" fill="#ffe558"/>
+    <ellipse id="F-65" data-name="F" cx="1.206" cy="1.206" rx="1.206" ry="1.206" transform="translate(39.005 13.481)" fill="#ffe558"/>
+    <ellipse id="F-66" data-name="F" cx="0.998" cy="0.998" rx="0.998" ry="0.998" transform="translate(8.3 35.589)" fill="#ffe558"/>
+    <ellipse id="F-67" data-name="F" cx="0.703" cy="0.703" rx="0.703" ry="0.703" transform="translate(12.206 35.621)" fill="#ffe558"/>
+    <ellipse id="F-68" data-name="F" cx="0.703" cy="0.703" rx="0.703" ry="0.703" transform="translate(14.824 20.583)" fill="#ffe558"/>
+    <ellipse id="F-69" data-name="F" cx="1.158" cy="1.158" rx="1.158" ry="1.158" transform="translate(12.273 71.568)" fill="#ffe558"/>
+    <ellipse id="F-70" data-name="F" cx="1.158" cy="1.158" rx="1.158" ry="1.158" transform="translate(107.683 48.713)" fill="#ffe558"/>
+    <ellipse id="F-71" data-name="F" cx="1.158" cy="1.158" rx="1.158" ry="1.158" transform="translate(100.471 73.672)" fill="#ffe558"/>
+    <ellipse id="F-72" data-name="F" cx="1.158" cy="1.158" rx="1.158" ry="1.158" transform="translate(90.885 13.865)" fill="#ffe558"/>
+    <ellipse id="F-73" data-name="F" cx="1.158" cy="1.158" rx="1.158" ry="1.158" transform="translate(24.528 19.467)" fill="#ffe558"/>
+    <circle id="F-74" data-name="F" cx="0.759" cy="0.759" r="0.759" transform="translate(3.218 54.137)" fill="#ffe558"/>
+    <ellipse id="F-75" data-name="F" cx="0.624" cy="0.624" rx="0.624" ry="0.624" transform="translate(7.036 75.188)" fill="#ffe558"/>
+    <ellipse id="F-76" data-name="F" cx="0.624" cy="0.624" rx="0.624" ry="0.624" transform="translate(4.284 65.429)" fill="#ffe558"/>
+    <ellipse id="F-77" data-name="F" cx="0.624" cy="0.624" rx="0.624" ry="0.624" transform="translate(34.072 100.752)" fill="#ffe558"/>
+    <ellipse id="F-78" data-name="F" cx="0.686" cy="0.686" rx="0.686" ry="0.686" transform="translate(100.783 32.995)" fill="#ffe558"/>
+    <ellipse id="F-79" data-name="F" cx="0.686" cy="0.686" rx="0.686" ry="0.686" transform="translate(101.827 55.533)" fill="#ffe558"/>
+    <ellipse id="F-80" data-name="F" cx="0.355" cy="0.355" rx="0.355" ry="0.355" transform="translate(93.818 20.25)" fill="#ffe558"/>
+    <ellipse id="F-81" data-name="F" cx="0.355" cy="0.355" rx="0.355" ry="0.355" transform="translate(93.773 34.01)" fill="#ffe558"/>
+    <ellipse id="F-82" data-name="F" cx="0.855" cy="0.855" rx="0.855" ry="0.855" transform="translate(16.799 87.48)" fill="#ffe558"/>
+    <ellipse id="F-83" data-name="F" cx="1.074" cy="1.074" rx="1.074" ry="1.074" transform="translate(15.939 92.967)" fill="#ffe558"/>
+    <ellipse id="F-84" data-name="F" cx="1.074" cy="1.074" rx="1.074" ry="1.074" transform="translate(92.096 67.921)" fill="#ffe558"/>
+    <ellipse id="F-85" data-name="F" cx="0.627" cy="0.627" rx="0.627" ry="0.627" transform="translate(22.01 88.151)" fill="#ffe558"/>
+    <ellipse id="F-86" data-name="F" cx="0.627" cy="0.627" rx="0.627" ry="0.627" transform="translate(88.922 83.08)" fill="#ffe558"/>
+    <ellipse id="F-87" data-name="F" cx="0.627" cy="0.627" rx="0.627" ry="0.627" transform="translate(95.23 85.524)" fill="#ffe558"/>
+    <ellipse id="F-88" data-name="F" cx="0.627" cy="0.627" rx="0.627" ry="0.627" transform="translate(76.621 97.758)" fill="#ffe558"/>
+    <ellipse id="F-89" data-name="F" cx="0.627" cy="0.627" rx="0.627" ry="0.627" transform="translate(71.406 91.473)" fill="#ffe558"/>
+    <ellipse id="F-90" data-name="F" cx="0.627" cy="0.627" rx="0.627" ry="0.627" transform="translate(56.697 99.855)" fill="#ffe558"/>
+    <ellipse id="F-91" data-name="F" cx="0.627" cy="0.627" rx="0.627" ry="0.627" transform="translate(38.423 93.176)" fill="#ffe558"/>
+    <ellipse id="F-92" data-name="F" cx="0.71" cy="0.71" rx="0.71" ry="0.71" transform="translate(62.602 0)" fill="#ffe558"/>
+    <ellipse id="F-93" data-name="F" cx="0.899" cy="0.899" rx="0.899" ry="0.899" transform="translate(55.724 3.493)" fill="#ffe558"/>
+    <ellipse id="F-94" data-name="F" cx="0.413" cy="0.413" rx="0.413" ry="0.413" transform="translate(82.206 10.765)" fill="#ffe558"/>
+    <ellipse id="F-95" data-name="F" cx="0.413" cy="0.413" rx="0.413" ry="0.413" transform="translate(50.346 1.933)" fill="#ffe558"/>
+    <ellipse id="F-96" data-name="F" cx="0.413" cy="0.413" rx="0.413" ry="0.413" transform="translate(21.063 18.474)" fill="#ffe558"/>
+    <path id="패스_107" data-name="패스 107" d="M8.514,6.064l-1.447.391a1,1,0,0,0-.682.633L5.886,8.5a1,1,0,0,1-1.78.214L3.287,7.459a1,1,0,0,0-.812-.453l-1.5-.038A1,1,0,0,1,.223,5.34l.941-1.167a1,1,0,0,0,.18-.913L.917,1.824A1,1,0,0,1,2.232.605l1.4.534a1,1,0,0,0,.924-.11L5.79.178a1,1,0,0,1,1.566.874l-.076,1.5a1,1,0,0,0,.391.844l1.19.911A1,1,0,0,1,8.514,6.064Z" transform="translate(57.146 46.612) rotate(60)" fill="#66fffe"/>
+  </g>
+</svg>

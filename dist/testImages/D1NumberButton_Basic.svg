@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="P015" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="35.8px" height="35.8px" viewBox="0 0 35.8 35.8" style="enable-background:new 0 0 35.8 35.8;" xml:space="preserve">
+<style type="text/css">
+<<<<<<< HEAD
+	.st0{fill:url(#CAL_BASIC_BTN_SVGID_1_);}
+	.st1{fill:url(#SVGID_00000139989964636237350810000009908457664734675862_);}
+	.st2{fill:url(#SVGID_00000039124719783207289800000005320848428973899938_);}
+	.st3{opacity:0.3;fill:url(#SVGID_00000106857659071909071830000017443499553110066595_);}
+	.st4{fill:url(#SVGID_00000121997261839359325330000013157132701985920430_);}
+	.st5{fill:url(#SVGID_00000085931748542370258590000017647486442439480738_);}
+	.st6{fill:url(#SVGID_00000151532586257114212460000009873622237402517421_);}
+	.st7{opacity:0.3;fill:url(#SVGID_00000078759180962527446320000003422528867484902020_);}
+	.st8{fill:url(#SVGID_00000110451004498894514840000003841436645704128942_);}
+	.st9{fill:url(#SVGID_00000078751853774477491760000007578376958441270155_);}
+	.st10{fill:url(#SVGID_00000182510820891961726430000001930434396055111099_);}
+	.st11{opacity:0.3;fill:url(#SVGID_00000181808075480333663690000009305396761474430852_);}
+=======
+	.st0{fill:url(#NumberButton_Basic_SVGID_1_);}
+	.st1{fill:url(#NumberButton_Basic_SVGID_00000139989964636237350810000009908457664734675862_);}
+	.st2{fill:url(#NumberButton_Basic_SVGID_00000039124719783207289800000005320848428973899938_);}
+	.st3{opacity:0.3;fill:url(#NumberButton_Basic_SVGID_00000106857659071909071830000017443499553110066595_);}
+	.st4{fill:url(#NumberButton_Basic_SVGID_00000121997261839359325330000013157132701985920430_);}
+	.st5{fill:url(#NumberButton_Basic_SVGID_00000085931748542370258590000017647486442439480738_);}
+	.st6{fill:url(#NumberButton_Basic_SVGID_00000151532586257114212460000009873622237402517421_);}
+	.st7{opacity:0.3;fill:url(#NumberButton_Basic_SVGID_00000078759180962527446320000003422528867484902020_);}
+	.st8{fill:url(#NumberButton_Basic_SVGID_00000110451004498894514840000003841436645704128942_);}
+	.st9{fill:url(#NumberButton_Basic_SVGID_00000078751853774477491760000007578376958441270155_);}
+	.st10{fill:url(#NumberButton_Basic_SVGID_00000182510820891961726430000001930434396055111099_);}
+	.st11{opacity:0.3;fill:url(#NumberButton_Basic_SVGID_00000181808075480333663690000009305396761474430852_);}
+>>>>>>> 49c70ee4f38a63067583c4a74564784e8ff2482b
+	.st12{fill:#828688;}
+	.st13{fill:url(#NumberButton_Basic_SVGID_00000171686297725237467060000005246405040530435216_);}
+	.st14{fill:url(#NumberButton_Basic_SVGID_00000065780925504240895670000006591231605743814577_);}
+	.st15{fill:url(#NumberButton_Basic_SVGID_00000039843245966260705250000002338034373797961128_);}
+	.st16{opacity:0.3;fill:url(#NumberButton_Basic_SVGID_00000155121947107959962590000012427348889007276478_);}
+	.st17{fill:#1C7C6A;}
+	.st18{fill:url(#NumberButton_Basic_SVGID_00000010291152232695832040000009809693610320147643_);}
+	.st19{fill:url(#NumberButton_Basic_SVGID_00000147924865769568568110000006508309763249342090_);}
+	.st20{fill:url(#NumberButton_Basic_SVGID_00000029748220446145824780000017319427854298028710_);}
+	.st21{opacity:0.3;fill:url(#NumberButton_Basic_SVGID_00000161606317661786344370000002765995023006647743_);}
+	.st22{fill:url(#NumberButton_Basic_SVGID_00000003093171310717272790000011926780308091174287_);}
+	.st23{fill:url(#NumberButton_Basic_SVGID_00000134230455309844430020000008697473009242462863_);}
+	.st24{fill:url(#NumberButton_Basic_SVGID_00000181788534600403187880000013394023979034326719_);}
+	.st25{opacity:0.3;fill:url(#NumberButton_Basic_SVGID_00000092436296265860001530000018421512262394515884_);}
+	.st26{fill:url(#NumberButton_Basic_SVGID_00000085954170283710452150000015859728632051832509_);}
+	.st27{fill:url(#NumberButton_Basic_SVGID_00000004527406427497525500000005893817421825879942_);}
+	.st28{opacity:0.64;fill:url(#NumberButton_Basic_SVGID_00000137119093453301121060000005681478586570791592_);}
+	.st29{fill:url(#NumberButton_Basic_SVGID_00000138562954249601073190000007097553429744906119_);}
+	.st30{opacity:0;fill:#FFFFFF;}
+	.st31{opacity:2.857143e-02;fill:#FDFDFD;}
+	.st32{opacity:5.714286e-02;fill:#FAFAFA;}
+	.st33{opacity:8.571429e-02;fill:#F8F8F8;}
+	.st34{opacity:0.1143;fill:#F5F6F6;}
+	.st35{opacity:0.1429;fill:#F3F3F4;}
+	.st36{opacity:0.1714;fill:#F0F1F1;}
+	.st37{opacity:0.2;fill:#EEEFEF;}
+	.st38{opacity:0.2286;fill:#ECECED;}
+	.st39{opacity:0.2571;fill:#E9EAEB;}
+	.st40{opacity:0.2857;fill:#E7E8E8;}
+	.st41{opacity:0.3143;fill:#E4E6E6;}
+	.st42{opacity:0.3429;fill:#E2E3E4;}
+	.st43{opacity:0.3714;fill:#DFE1E2;}
+	.st44{opacity:0.4;fill:#DDDFDF;}
+	.st45{opacity:0.4286;fill:#DBDCDD;}
+	.st46{opacity:0.4571;fill:#D8DADB;}
+	.st47{opacity:0.4857;fill:#D6D8D9;}
+	.st48{opacity:0.5143;fill:#D3D5D6;}
+	.st49{opacity:0.5429;fill:#D1D3D4;}
+	.st50{opacity:0.5714;fill:#CED1D2;}
+	.st51{opacity:0.6;fill:#CCCED0;}
+	.st52{opacity:0.6286;fill:#CACCCD;}
+	.st53{opacity:0.6571;fill:#C7CACB;}
+	.st54{opacity:0.6857;fill:#C5C7C9;}
+	.st55{opacity:0.7143;fill:#C2C5C7;}
+	.st56{opacity:0.7429;fill:#C0C3C4;}
+	.st57{opacity:0.7714;fill:#BDC1C2;}
+	.st58{opacity:0.8;fill:#BBBEC0;}
+	.st59{opacity:0.8286;fill:#B9BCBE;}
+	.st60{opacity:0.8571;fill:#B6BABB;}
+	.st61{opacity:0.8857;fill:#B4B7B9;}
+	.st62{opacity:0.9143;fill:#B1B5B7;}
+	.st63{opacity:0.9429;fill:#AFB3B5;}
+	.st64{opacity:0.9714;fill:#ACB0B2;}
+	.st65{fill:#AAAEB0;}
+	.st66{fill:url(#NumberButton_Basic_SVGID_00000010294353851792613000000018022277443627794864_);}
+	.st67{fill:url(#NumberButton_Basic_SVGID_00000147213374171177206630000000289557528408359346_);}
+	.st68{fill:url(#NumberButton_Basic_SVGID_00000029014364549476103620000007869252967949648572_);}
+	.st69{fill:none;}
+	.st70{fill:url(#NumberButton_Basic_SVGID_00000064330956431606538600000017604694928092559287_);}
+	.st71{fill:#5B5B5B;}
+	.st72{fill:#777777;}
+	.st73{fill:#444444;}
+	.st74{opacity:7.000000e-02;fill:#FFFFFF;}
+	.st75{fill:#878787;}
+	.st76{fill:#FFFFFF;}
+	.st77{fill:#37474F;}
+	.st78{opacity:0.47;fill:#666666;}
+	.st79{opacity:0.47;fill:#A0A0A0;}
+	.st80{fill:url(#NumberButton_Basic_SVGID_00000011020917909459817700000006525570852139194278_);}
+	.st81{fill:#8C8C8C;}
+	.st82{opacity:0.42;fill:#898989;}
+	.st83{fill:#0DA5A8;}
+	.st84{fill:#E6F3F4;}
+	.st85{fill:none;stroke:#0097A3;stroke-width:2;stroke-miterlimit:10;}
+	.st86{fill:#39BCBC;}
+	.st87{fill:#0B6D6A;}
+	.st88{fill:url(#NumberButton_Basic_SVGID_00000173851678929838222670000000339909510533982137_);}
+	.st89{opacity:0.13;fill:url(#NumberButton_Basic_SVGID_00000062897790355731082750000012206495874635211929_);}
+	.st90{fill:#161206;}
+	.st91{opacity:0.21;fill:url(#NumberButton_Basic_SVGID_00000181797726999548980280000013191330485848896653_);}
+	.st92{opacity:0.38;fill:url(#NumberButton_Basic_SVGID_00000182507581380638917570000016400909933639207848_);}
+	.st93{opacity:0.64;fill:#14121E;}
+	.st94{fill:#A37714;}
+	.st95{opacity:0.15;fill:url(#NumberButton_Basic_SVGID_00000014600821152517544100000015572854659725522361_);}
+	.st96{fill:#7F7F7F;}
+	.st97{fill:none;stroke:#7F7F7F;stroke-width:15;stroke-miterlimit:10;}
+	.st98{fill:#A5A5A5;}
+	.st99{fill:#E8BE60;}
+	.st100{fill:#B28D42;}
+	.st101{opacity:0.45;}
+	.st102{fill:#A9ADAA;}
+	.st103{fill:#424242;}
+	.st104{fill:#7A7A7A;}
+	.st105{fill:#4C5356;}
+	.st106{fill:#278282;}
+	.st107{fill:#2F969B;}
+	.st108{opacity:0.52;fill:#283033;}
+	.st109{fill:url(#NumberButton_Basic_SVGID_00000018929231065536622700000009457703193229978288_);}
+	.st110{opacity:0.77;fill:url(#NumberButton_Basic_SVGID_00000040555581197938057250000012830181552259281032_);}
+	.st111{fill:url(#NumberButton_Basic_SVGID_00000029763408926050490540000014404723159407301529_);}
+	.st112{opacity:0.77;fill:url(#NumberButton_Basic_SVGID_00000127038543078047555030000004609543426717737617_);}
+	.st113{opacity:0.77;fill:url(#NumberButton_Basic_SVGID_00000006697276570594074320000011171527986532701371_);}
+	.st114{opacity:0.2;}
+	.st115{fill:#2E2E2E;}
+	.st116{fill:url(#NumberButton_Basic_SVGID_00000150064339982113206010000006938970191342738821_);}
+	.st117{opacity:0.77;}
+	.st118{fill:url(#NumberButton_Basic_SVGID_00000007408902950206436900000009209641933043331995_);}
+	.st119{fill:#FFD81A;}
+	.st120{fill:#FFB127;}
+	.st121{fill:#FFC136;}
+	.st122{fill:#FFF794;}
+	.st123{opacity:0.4;fill:#FFB127;}
+	.st124{fill:url(#NumberButton_Basic_SVGID_00000164492581551232865600000010005558717331866540_);}
+	.st125{fill:url(#NumberButton_Basic_SVGID_00000064351356120071877230000004235583166221776558_);}
+	.st126{fill:#F6B90E;}
+	.st127{fill:#22BFBF;}
+	.st128{fill:#333333;}
+	.st129{fill:#F1F1F1;}
+	.st130{fill:#1A1A1A;}
+	.st131{fill:#199992;}
+	.st132{fill:#F4EEE4;}
+	.st133{opacity:0.24;}
+</style>
+<g id="숫자버튼">
+	<g>
+<<<<<<< HEAD
+		<linearGradient id="CAL_BASIC_BTN_SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.8915" y1="-6.0939" x2="17.8915" y2="42.3963">
+=======
+		<linearGradient id="NumberButton_Basic_SVGID_1_" gradientUnits="userSpaceOnUse" x1="17.8915" y1="-6.0939" x2="17.8915" y2="42.3963">
+>>>>>>> 49c70ee4f38a63067583c4a74564784e8ff2482b
+			<stop  offset="0.2004" style="stop-color:#667178"/>
+			<stop  offset="0.8472" style="stop-color:#D0D0D0"/>
+			<stop  offset="1" style="stop-color:#A8A8A8"/>
+		</linearGradient>
+		<path class="st0" d="M35.8,17.9c0,9.9-8,17.9-17.9,17.9C8,35.8,0,27.8,0,17.9C0,8,8,0,17.9,0C27.8,0,35.8,8,35.8,17.9z"/>
+		
+			<radialGradient id="NumberButton_Basic_SVGID_00000097461468474790950010000012978574291504410032_" cx="17.8915" cy="17.8915" r="16.0508" gradientUnits="userSpaceOnUse">
+			<stop  offset="0.8194" style="stop-color:#797D80"/>
+			<stop  offset="1" style="stop-color:#FFFFFF"/>
+		</radialGradient>
+		<path style="fill:url(#NumberButton_Basic_SVGID_00000097461468474790950010000012978574291504410032_);" d="M33.9,17.9c0,8.9-7.2,16.1-16.1,16.1
+			C9,33.9,1.8,26.8,1.8,17.9C1.8,9,9,1.8,17.9,1.8C26.8,1.8,33.9,9,33.9,17.9z"/>
+		
+			<linearGradient id="NumberButton_Basic_SVGID_00000078744095364909641510000013511435455134514344_" gradientUnits="userSpaceOnUse" x1="17.8915" y1="52.1897" x2="17.8915" y2="-61.9561">
+			<stop  offset="1.785710e-02" style="stop-color:#AAABAB"/>
+			<stop  offset="0.2004" style="stop-color:#A0A5A8"/>
+			<stop  offset="0.8472" style="stop-color:#D0D0D0"/>
+			<stop  offset="1" style="stop-color:#A8A8A8"/>
+		</linearGradient>
+		<path style="fill:url(#NumberButton_Basic_SVGID_00000078744095364909641510000013511435455134514344_);" d="M32.4,17.9c0,8-6.5,14.5-14.5,14.5
+			c-8,0-14.5-6.5-14.5-14.5c0-8,6.5-14.5,14.5-14.5C25.9,3.4,32.4,9.9,32.4,17.9z"/>
+		
+			<linearGradient id="NumberButton_Basic_SVGID_00000041995834531521957010000004851646486721960616_" gradientUnits="userSpaceOnUse" x1="17.8915" y1="52.2351" x2="17.8915" y2="-6.4215">
+			<stop  offset="1.785710e-02" style="stop-color:#AAABAB"/>
+			<stop  offset="0.2004" style="stop-color:#A0A5A8"/>
+			<stop  offset="0.8472" style="stop-color:#D0D0D0"/>
+			<stop  offset="1" style="stop-color:#A8A8A8"/>
+		</linearGradient>
+		<path style="opacity:0.3;fill:url(#NumberButton_Basic_SVGID_00000041995834531521957010000004851646486721960616_);" d="M17.9,4.2
+			c7.9,0,14.2,6.3,14.4,14.1c0-0.1,0-0.3,0-0.4c0-8-6.5-14.5-14.5-14.5c-8,0-14.5,6.5-14.5,14.5c0,0.1,0,0.3,0,0.4
+			C3.7,10.5,10,4.2,17.9,4.2z"/>
+	</g>
+</g>
+<g id="레이어_5">
+</g>
+<g id="문제화면판_x28_가로형_x29_">
+</g>
+<g id="시계">
+</g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" id="screen_x5F_verical" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="264.4px" height="220.4px" viewBox="0 0 264.4 220.4" style="enable-background:new 0 0 264.4 220.4;"
+	 xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:1;fill:#B5B5B5;}
+	.st1{fill:url(#VERTI_1_);}	
+</style>
+<g>
+	<path class="st0" d="M10.5,220.4c-5.8,0-10.5-4.7-10.5-10.5V14.5C0,8.7,4.7,4,10.5,4H254c5.8,0,10.5,4.7,10.5,10.5v195.4
+		c0,5.8-4.7,10.5-10.5,10.5H10.5z"/>
+	<linearGradient id="VERTI_1_" gradientUnits="userSpaceOnUse" x1="6.251" y1="35.087" x2="460.3085" y2="298.5332">
+		<stop  offset="0" style="stop-color:#ABABAB"/>
+		<stop  offset="2.048109e-02" style="stop-color:#B0B0B0"/>
+		<stop  offset="0.1518" style="stop-color:#CECECE"/>
+		<stop  offset="0.2263" style="stop-color:#D9D9D9"/>
+		<stop  offset="0.4338" style="stop-color:#ABABAB"/>
+		<stop  offset="0.4551" style="stop-color:#B0B0B0"/>
+		<stop  offset="0.5918" style="stop-color:#CECECE"/>
+		<stop  offset="0.6695" style="stop-color:#D9D9D9"/>
+		<stop  offset="0.8188" style="stop-color:#ABABAB"/>
+		<stop  offset="0.8304" style="stop-color:#B0B0B0"/>
+		<stop  offset="0.9047" style="stop-color:#CECECE"/>
+		<stop  offset="0.9469" style="stop-color:#D9D9D9"/>
+		<stop  offset="1" style="stop-color:#B5B5B5"/>
+	</linearGradient>
+	<path class="st1" d="M10.5,216.4c-5.8,0-10.5-4.7-10.5-10.5V10.5C0,4.7,4.7,0,10.5,0H254c5.8,0,10.5,4.7,10.5,10.5v195.4
+		c0,5.8-4.7,10.5-10.5,10.5H10.5z"/>
+	
+		<linearGradient id="VERTI_00000086683948150101481420000007430573625608168887_" gradientUnits="userSpaceOnUse" x1="14.4392" y1="39.8379" x2="438.9828" y2="286.16">
+		<stop  offset="0" style="stop-color:#303030"/>
+		<stop  offset="2.722079e-02" style="stop-color:#292929"/>
+		<stop  offset="0.1542" style="stop-color:#0B0B0B"/>
+		<stop  offset="0.2263" style="stop-color:#000000"/>
+		<stop  offset="0.5914" style="stop-color:#525252"/>
+		<stop  offset="0.6083" style="stop-color:#545454"/>
+		<stop  offset="0.8581" style="stop-color:#727272"/>
+		<stop  offset="1" style="stop-color:#7D7D7D"/>
+	</linearGradient>
+	<path style="fill:url(#VERTI_00000086683948150101481420000007430573625608168887_);" d="M248.5,208.1H15.9c-3.7,0-6.8-3-6.8-6.8
+		V15.1c0-3.7,3-6.8,6.8-6.8h232.6c3.7,0,6.8,3,6.8,6.8v186.2C255.3,205,252.3,208.1,248.5,208.1z"/>
+</g>
+</svg>
