@@ -4,4 +4,4 @@
 
 ## 메인
 
-version: v0.0.2
+version: v0.0.1
