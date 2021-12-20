@@ -1,25 +1,18 @@
 {
   "files": {
-    "main.css": "/history/dist/static/css/main.d87cbb72.chunk.css",
-    "main.js": "/history/dist/static/js/main.ab70f0dc.chunk.js",
-    "main.js.map": "/history/dist/static/js/main.ab70f0dc.chunk.js.map",
-    "runtime-main.js": "/history/dist/static/js/runtime-main.5c7f1f62.js",
-    "runtime-main.js.map": "/history/dist/static/js/runtime-main.5c7f1f62.js.map",
-    "static/js/2.642e3329.chunk.js": "/history/dist/static/js/2.642e3329.chunk.js",
-    "static/js/2.642e3329.chunk.js.map": "/history/dist/static/js/2.642e3329.chunk.js.map",
-    "static/js/3.d48508e8.chunk.js": "/history/dist/static/js/3.d48508e8.chunk.js",
-    "static/js/3.d48508e8.chunk.js.map": "/history/dist/static/js/3.d48508e8.chunk.js.map",
+    "main.css": "/history/dist/static/css/main.06b01fc5.css",
+    "main.js": "/history/dist/static/js/main.a3d92876.js",
+    "static/js/787.898626eb.chunk.js": "/history/dist/static/js/787.898626eb.chunk.js",
+    "static/media/img_5terre.jpg": "/history/dist/static/media/img_5terre.e53a70cdd22f0f9be348.jpg",
+    "static/media/img_mountains.jpg": "/history/dist/static/media/img_mountains.242e5194dcc2ab13bab0.jpg",
+    "static/media/img_lights.jpg": "/history/dist/static/media/img_lights.84bc44f4e214775d7954.jpg",
     "index.html": "/history/dist/index.html",
-    "static/css/main.d87cbb72.chunk.css.map": "/history/dist/static/css/main.d87cbb72.chunk.css.map",
-    "static/js/2.642e3329.chunk.js.LICENSE.txt": "/history/dist/static/js/2.642e3329.chunk.js.LICENSE.txt",
-    "static/media/img_5terre.e53a70cd.jpg": "/history/dist/static/media/img_5terre.e53a70cd.jpg",
-    "static/media/img_lights.84bc44f4.jpg": "/history/dist/static/media/img_lights.84bc44f4.jpg",
-    "static/media/img_mountains.242e5194.jpg": "/history/dist/static/media/img_mountains.242e5194.jpg"
+    "main.06b01fc5.css.map": "/history/dist/static/css/main.06b01fc5.css.map",
+    "main.a3d92876.js.map": "/history/dist/static/js/main.a3d92876.js.map",
+    "787.898626eb.chunk.js.map": "/history/dist/static/js/787.898626eb.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.5c7f1f62.js",
-    "static/js/2.642e3329.chunk.js",
-    "static/css/main.d87cbb72.chunk.css",
-    "static/js/main.ab70f0dc.chunk.js"
+    "static/css/main.06b01fc5.css",
+    "static/js/main.a3d92876.js"
   ]
 }

@@ -4,7 +4,7 @@
 
 ## 메인
 
-### update: 2021. 12. 17
-### version: v0.0.1
+### update: 2021. 12. 20
+### version: v0.0.2
 
 #### <a href="https://thepolaris87.github.io/history/dist/">React Project 보러 가기!</a>
